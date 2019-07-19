@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Ahmed Ayoub",
+      "authorEmail": "great.nile@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
